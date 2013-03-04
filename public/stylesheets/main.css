@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f8ff;
+}
+div.post {
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 800px;
+}
+div.post div.time {
+    color: #4ca3eb;
+}
+div.post div.message {
+    padding: 12px;
+    min-height: 25px;
+    border: 1px solid; border-radius: 5px;
+    text-align: justify; text-indent: 20px;
+} div.messageEdit table {
+    width: 150px;
+  }
+div.post div.tab {
+    margin-top: 10px;
+}
+div.post div.rating {
+    float: left;
+}
+button.edit, a.delete {
+    float: right;
+}
+div.add {
+    margin-top: 50px;
+    text-align: center;
+}
+div.sendForm {
+    margin-top: 10px;
+} div.sendForm table {
+    margin: 0 auto;
+    width: 150px;
+}

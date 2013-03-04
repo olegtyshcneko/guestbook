@@ -1,0 +1,13 @@
+div.rating {
+    float: left;
+}
+div.rating i {
+    display: inline-block;
+    width: 25px; height: 25px;
+}
+i.rated {
+    background-image:  url("../../public/images/star-rated.png");
+}
+i.unrated {
+    background-image:  url("../../public/images/star-unrated.png");
+}

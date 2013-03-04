@@ -1,0 +1,16 @@
+Post(first):
+  message: Hello there, this is first post
+  rating: 3
+  messageTime: 2013-02-28T15:32:00
+Post(second):
+  message: Hello there, this is second post. <b>bold</b>
+  rating: 1
+  messageTime: 2013-02-29T15:30:00
+Post(third):
+  message: Hello there, this is third post
+  rating: 4
+  messageTime: 2013-02-29T14:32:00
+Post(fourth):
+  message: Hello there, this is fourth post
+  rating: 5
+  messageTime: 2013-03-12T18:22:00
